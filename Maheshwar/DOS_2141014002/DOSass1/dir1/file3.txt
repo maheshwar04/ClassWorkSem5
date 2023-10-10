@@ -1,0 +1,11 @@
+Maheshwar Nag
+2141014002
+CSE
+SEM5
+N
+
+
+sem1=8.1
+sem2=9.24
+sem3=8.95
+sem4=8.1
