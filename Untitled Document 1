@@ -1,0 +1,17 @@
+    char dob[11]; 
+    printf("Enter your date of birth (dd-mm-yyyy): ");
+    scanf("%s", dob);
+
+    int birthYear;
+    sscanf(dob, "%*d-%*d-%4d", &birthYear); 
+
+    int age = calculateAge(birthYear);
+
+    char birthMonth[10];
+    sscanf(dob, "%*d-%[^-]-%*d", birthMonth);
+
+    int premium = calculatePremium(age);
+
+    printf("Your age is: %d years\n", age);
+    printf("Your birth month is: %s\n", birthMonth);
+    printf("Premium to be paid: %d\n", premium);
