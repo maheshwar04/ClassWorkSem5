@@ -1,0 +1,10 @@
+Hello, this is a sample text file.
+It contains multiple lines for testing purposes.
+Feel free to add or modify the content as needed.
+This is line number 4.
+And here is line number 5.
+
+Let's make the file a bit longer.
+Line 6 is here, and so is line 7.
+We are adding more lines to demonstrate line counting.
+This is line number 10, and we are almost done.
