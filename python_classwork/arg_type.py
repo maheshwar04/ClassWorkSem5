@@ -9,7 +9,7 @@ print("Sum of 3 and 4:", result)
 def greet(name, greeting):
     return f"{greeting}, {name}!"
 
-greeting_message = greet(name="Sriya", greeting="Hello")
+greeting_message = greet(name="Akash", greeting="Hello")
 print(greeting_message)
 
 # Default Arguments

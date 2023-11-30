@@ -12,7 +12,7 @@
 # a=5
 # print(a+5)
 
-# print("Akash", "Dev", "Hello","Sriya", sep='😂')
+# print("Akash", "Dev", "Hello","akash", sep='😂')
 
 # print("Akash", end="+++")
 # print("Dev")
@@ -25,7 +25,7 @@
 
 # print("My first number is {} My second number is {} ".format("Akash", 60))
 
-# print("My first name is {1}, and my middle name is {2} and my surname is {0}".format("Mohapatra", "Sriya", "Das"))
+# print("My first name is {1}, and my middle name is {2} and my surname is {0}".format("Hero", "akash", "Dev"))
 # We can also do string formatting using %
 # name="Akash"
 # age=21
